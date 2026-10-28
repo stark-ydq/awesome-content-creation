@@ -161,6 +161,7 @@ Writing great hooks is the single most important skill for content creators. A g
 - [Canva Carousel Templates](https://www.canva.com/templates/?query=carousel) — Free and premium carousel designs.
 - [Creative Market](https://creativemarket.com/) — Premium design templates for social media.
 - [Envato Elements](https://elements.envato.com/) — Unlimited creative template downloads.
+- [EasySociable](https://github.com/murphywuwu/easysociable-mcp) — AI carousel maker that runs inside your coding agent (Claude Code, Cursor, Codex) for TikTok, Instagram & LinkedIn.
 
 ---
 
