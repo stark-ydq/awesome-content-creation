@@ -43,6 +43,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 ### AI Video Tools
 - [Synthesia](https://www.synthesia.io/) — AI avatars that speak your script. Great for faceless educational content.
 - [HeyGen](https://www.heygen.com/) — AI video generator with realistic avatars and voice cloning.
+- [Karaoke Captions](https://karaokecaptions.com/) — Adds animated word-by-word captions to creator videos using on-device speech recognition, with free watermark-free styles.
 - [Runway](https://runwayml.com/) — AI-powered video generation, editing, and effects.
 - [Opus Clip](https://www.opus.pro/) — AI tool that turns long videos into viral short clips.
 - [Pictory](https://pictory.ai/) — Turn long-form content into short branded videos with AI.
