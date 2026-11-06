@@ -236,6 +236,7 @@ Creating content without showing your face is one of the fastest-growing content
 - [Google Analytics](https://analytics.google.com/) — Web traffic analytics (GA4).
 - [Plausible](https://plausible.io/) — Privacy-friendly, open-source web analytics.
 - [Hotjar](https://www.hotjar.com/) — Heatmaps, session recordings, and user feedback.
+- [IGDataHub](https://igdatahub.com/) — Public Instagram followers, engagement rate and top posts for any profile; compare creators.
 
 ### SEO Tools
 - [Ahrefs](https://ahrefs.com/) — Backlink analysis, keyword research, and site auditing.
