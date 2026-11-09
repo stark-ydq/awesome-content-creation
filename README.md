@@ -31,6 +31,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 ### Editing Software
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) — Free professional video editor with color grading, Fusion VFX, and audio post-production.
 - [CapCut](https://www.capcut.com/) — Free video editor by ByteDance. Auto-captions, templates, and TikTok-optimized exports.
+- [Barz Studio](https://barzvideo.com/?utm_source=stark-ydq-awesome-content-creation&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Descript](https://www.descript.com/) — Edit video by editing text. AI-powered transcription, filler word removal, and screen recording.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) — Industry standard for professional video editing.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) — Apple's professional video editor with magnetic timeline.
@@ -44,6 +45,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Synthesia](https://www.synthesia.io/) — AI avatars that speak your script. Great for faceless educational content.
 - [HeyGen](https://www.heygen.com/) — AI video generator with realistic avatars and voice cloning.
 - [Runway](https://runwayml.com/) — AI-powered video generation, editing, and effects.
+- [Cyanvid](https://cyanvid.com/?utm_source=stark-ydq-awesome-content-creation&utm_medium=directory&utm_campaign=backlinks) — AI video generator from text or images; credit quotes before generate.
 - [Opus Clip](https://www.opus.pro/) — AI tool that turns long videos into viral short clips.
 - [Pictory](https://pictory.ai/) — Turn long-form content into short branded videos with AI.
 
