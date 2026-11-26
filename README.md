@@ -266,6 +266,8 @@ Selling digital products is one of the most scalable revenue streams for creator
 | Full systems | Content creation workflows | $47-297 |
 | Courses | In-depth training | $97-497 |
 
+> [Editing Asset Collection](https://github.com/kalidatuna/video-editing-samples/#products) — Paid, editable subtitle styles, thumbnail layouts, lower-thirds overlays, and creative color LUTs.
+>
 > **Browse a live example:** [WEDGE Method Digital Products](https://wedgemethod.gumroad.com) — Templates, scripts, hooks, and automation systems for content creators.
 
 ### Affiliate Marketing
